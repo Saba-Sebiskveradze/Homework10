@@ -146,3 +146,76 @@ button {
     font-weight: 400;
     line-height: 24px;
 }
+
+/* footer */
+footer {
+    background-color: #000;
+    display: flex;
+    padding: 96px 150px;
+    justify-content: space-between;
+    align-items: flex-start;
+    column-gap: 226px;
+
+}
+
+
+.navigation_div {
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 80px;
+}
+
+.first_h2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24.653px;
+    font-weight: 900;
+    line-height: 26.414px;
+    text-transform: uppercase;
+}
+
+.footer_h2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    width: 99px;
+    margin-bottom: 16px;
+}
+
+.footer_ul {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+
+.footer_li {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+
+.subscribe {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 24px;
+
+}
+
+.subscribe_p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    opacity: 0.4;
+    width: 214px;
+}
