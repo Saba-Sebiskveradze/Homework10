@@ -1,0 +1,15 @@
+@media (max-width: 375px){
+    /* header */
+    .header_nav{
+        display: none;
+    }
+    .button1{
+        display: none;
+    }
+    .bars{
+        display: inline;
+    }
+    footer{
+        padding: 32px 24px;
+    }
+}
