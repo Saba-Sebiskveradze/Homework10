@@ -1,0 +1,32 @@
+@media (max-width: 744px){
+    /* section1 */
+    .section1{
+        padding: 24px;
+    }
+    .section_h2{
+        font-size: 40px;
+        line-height: 48.5px;
+    }
+    .section1_div{
+        margin-bottom: 24px;
+    }
+    /* section2 */
+    .section2 {
+        padding: 24px;
+    }
+    .section2_div{
+        flex-direction: column;
+        row-gap: 29px;
+        margin-top: 29px;
+    }
+    /* section3 */
+    .section3{
+        flex-direction: column;
+        padding: 20px 0px;
+    }
+    .section3_div2{
+        margin-left: 40%;
+    }
+
+    
+}
